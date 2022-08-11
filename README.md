@@ -1,4 +1,4 @@
-# The Fist Algorithm of Union Find.
+# The First Algorithm of Union Find.
 
 - Dynamic connectivity
 - Quick Find
