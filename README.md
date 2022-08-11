@@ -1,2 +1,7 @@
-# UnionFind
-Understanding: dynamic connectivity, quick find, quick union, improvements, applications
+# The Fist Algorithm of Union Find.
+
+- Dynamic connectivity
+- Quick Find
+- Quick Union
+- Improvements
+- Applications
